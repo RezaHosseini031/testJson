@@ -1,0 +1,23 @@
+[
+ {
+   "id": 0,
+   "name": "Meerkat",
+   "image": "image/Meerkat.png",
+ },
+ {
+   "id": 1,
+   "name": "Tiger",
+   "image": "image/Tiger.png",
+ },
+ {
+   "id": 2,
+   "name": "Cockatiel(voodi)",
+   "image": "image/Cockatiel(voodi).jpg",
+ }
+ ,
+ {
+   "id": 3,
+   "name": "Rabbit",
+   "image": "image/Rabbit.png",
+ }
+]
